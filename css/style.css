@@ -1,0 +1,35 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: blue;
+}
+
+#first {
+    color: black;
+}
+
+#second {
+    color: darkred;
+}
+
+#one {
+    color: #00000080;
+}
+
+#two {
+    color: #00000060;
+}
+
+#three {
+    color: #00000040;
+}
+
+#four {
+    color: #00000020;
+}
